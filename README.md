@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h2>📫 Connect with me</h2>
+<!-- <h2>📫 Connect with me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINK">
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   ⭐ "Code. Learn. Build. Repeat."
-</p>
+</p> -->
   📧 Email: your-email@example.com<br/>
   🔗 LinkedIn: your-linkedin-url
 </p>
