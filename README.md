@@ -13,12 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">
+<!-- <h1 align="center">
   Hi 👋, I'm Khanh Bui
+</h1> -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Khanh+👋;Front-end+Developer;Love+building+beautiful+apps" />
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Mobile+Developer;Front-end+Developer;Love+building+beautiful+apps" />
+<p>
+  I'm a final-year student at the Da Nang University of Science and Technology, aspiring to become a Mobile Developer and Front-end Developer. I passionate about building user-friendly, efficient applications with great user experience.
 </p>
 
 <p align="center">
