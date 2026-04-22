@@ -64,30 +64,3 @@ Here are some ideas to get you started:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhanhBui2004&theme=tokyo-night" />
 </p>
 
----
-
-<!-- <h2>📫 Connect with me</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ "Code. Learn. Build. Repeat."
-</p> -->
-  📧 Email: your-email@example.com<br/>
-  🔗 LinkedIn: your-linkedin-url
-</p>
-
----
-
-<p align="center">
-  ⭐ Always learning. Always building.
-</p>
