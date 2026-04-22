@@ -59,30 +59,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<table>
-      <tr>
-        <!-- Cột bên trái chứa 2 thẻ ảnh -->
-        <td>
-          <!-- GitHub Stats -->
-          <a href="">
-            <img style="width: 435px;" alt="tdm291104's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tdm291104&show_icons=true&theme=radical" />
-          </a>
-          <br>
-          <!-- GitHub Streak -->
-          <a href="">
-            <img style="width: 435px;" src="https://streak-stats.demolab.com?user=tdm291104&theme=radical" alt="GitHub Streak" />
-          </a>
-        </td>
-        <!-- Cột bên phải chứa thẻ ảnh Top Langs -->
-        <td>
-          <!-- Top Languages -->
-          <a href="">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdm291104&layout=pie&theme=radical"/>
-          </a>
-        </td>
-      </tr>    
-    </table>
-
 ---
 
 <h2>🔥 Contribution Graph</h2>
