@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=KhanhBui2004&label=Profile+views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KhanhBui2004&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhanhBui2004&theme=tokyonight" />
 </p>
 
 ---
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <h2>🔥 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhanhBui2004&theme=tokyo-night" />
 </p>
 
 ---
