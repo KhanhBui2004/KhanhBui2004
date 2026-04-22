@@ -13,21 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <h1 align="center">
-  Hi 👋, I'm Khanh Bui
-</h1> -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Khanh+👋;Front-end+Developer;Love+building+beautiful+apps" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=こんにちは、カインです！👋;Hello,+I'm+Khanh!+👋;" />
 </h1>
 
 <p>
-  I'm a final-year student at the Da Nang University of Science and Technology, aspiring to become a Mobile Developer and Front-end Developer. I passionate about building user-friendly, efficient applications with great user experience.
+  I'm a final-year student at the Da Nang University of Science and Technology, aspiring to become a Mobile Developer and Front-end Developer. I am passionate about building user-friendly, efficient applications with a strong focus on delivering great user experiences. I enjoy working with modern technologies, continuously improving my technical skills, and applying clean architecture principles to develop scalable and maintainable solutions. I am eager to contribute to real-world projects and grow as a developer in a dynamic and innovative environment.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KhanhBui2004&label=Profile+views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 
 ---
 
