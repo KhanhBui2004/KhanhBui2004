@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 </h1>
 
 <p>
-  I'm a final-year student at the Da Nang University of Science and Technology, aspiring to become a Software Engineer, Mobile Developer and Front-end Developer. I’m passionate about building user-friendly, efficient applications and continuously improving my skills while applying clean architecture to create scalable solutions.
+  I'm a final-year Information Technology student at the Da Nang University of Science and Technology, passionate about Software Engineering, Mobile Development, and Front-end Development. I enjoy building user-friendly and scalable applications while continuously improving my technical skills.
 </p>
 
 ---
 
 <p>
-  私はダナン工科大学の最終学年の学生で、ソフトウェアエンジニア、モバイルデベロッパー、およびフロントエンドデベロッパーを目指しています。ユーザーフレンドリーで効率的なアプリケーションの開発に情熱を持ち、クリーンアーキテクチャを活用してスケーラブルなソリューションを構築しながら、継続的にスキルを向上させています。
+  私はダナン工科大学の情報技術専攻の最終学年の学生で、ソフトウェアエンジニアリング、モバイル開発、およびフロントエンド開発に情熱を持っています。ユーザーフレンドリーでスケーラブルなアプリケーションの開発を楽しみながら、技術力の向上に継続的に取り組んでいます。
 </p>
 
 ---
