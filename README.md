@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+<!-- <h2>📊 GitHub Stats</h2>
 
 <table align="center">
   <tr>
@@ -57,7 +57,26 @@ Here are some ideas to get you started:
       <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhBui2004&layout=compact&theme=nightowl&hide_border=true" />
     </td>
   </tr>
-</table>
+</table> -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=KhanhBui2004&show_icons=true&theme=nightowl&hide_border=true&cache_bust=1" width="400px" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=KhanhBui2004&theme=nightowl&hide_border=true&cache_bust=1" width="400px" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhBui2004&layout=compact&theme=nightowl&hide_border=true&cache_bust=1" width="400px" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
