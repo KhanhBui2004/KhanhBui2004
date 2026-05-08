@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h2>🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,csharp,dotnet,dart,flutter,java,kotlin,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,cs,dotnet,dart,flutter,java,kotlin,python" />
 </p>
 
 <p align="center">
