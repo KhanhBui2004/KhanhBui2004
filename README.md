@@ -44,19 +44,19 @@ Here are some ideas to get you started:
 <h2>📊 GitHub Stats</h2>
 
 <table align="center">
-  <tr>
+  <!-- <tr>
     <td>
       <img width="420px" src="https://github-readme-stats.vercel.app/api?username=KhanhBui2004&show_icons=true&theme=nightowl&hide_border=true" />
-    </td>
+    </td> -->
     <td>
       <img width="420px" src="https://streak-stats.demolab.com?user=KhanhBui2004&theme=nightowl&hide_border=true" />
     </td>
-  </tr>
+  <!-- </tr>
   <tr>
     <td colspan="2" align="center">
       <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhBui2004&layout=compact&theme=nightowl&hide_border=true" />
     </td>
-  </tr>
+  </tr> -->
 </table> 
 
 ---
